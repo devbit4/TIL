@@ -1,5 +1,10 @@
 # TIL
 
+#### devbit4
+
+What I did & Reflection.. since 20210921
+ 
+## Timeline
 |Day1|DATE | What I did|Reflection|
 |:---:|:---:|:---:|:---:|
 |Day2|20210921|1. JS/DOM 2. English Call 3. German 4. Algorithm 5. Blog| 계획 잘 지키도록 노력하기 |
