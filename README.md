@@ -12,3 +12,4 @@ What I did & Reflection.. since 20210921
 |Day4|20210923|1. JS&developer environment 2. English Call 3. German 4. Algorithm 5. Blog 6. haircut|필기 or 코드 작성하며 공부하기|
 |Day5|20210924|1. JS & NPM 2. English Call 3. German 4. Algorithm 5. Blog 6. Swimming| Good!|
 |Day6|20210925|1. solving assignments: js 2. 깃허브 프로필 관리 3. Algorithm|성실하게 코딩합시다 :smile: |
+|Day7|20210926|1. git,git hub 2. command line 3. Algorithm|organization 등록한 날 :D|
