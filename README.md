@@ -24,5 +24,5 @@ What I did & Reflection.. since 20210921
 |Day15|20211005T|1. dcode 2.dreview 3.swimming 4.german 5.Algorithm|  |
 |Day16|20211006W|1. dcode 2.dreview 3.englishcall 4.german 5.Algorithm|  |
 |Day17|20211007T|1. codingapple 2.algorithm|  |
-|Day18|20211008F|1.dcode 2. dreview 3.swimming 4.german 5.codingapple 6.algorithm||
+|Day18|20211008F|1.dcode 2. dreview 3.swimming 4.german 5.codingapple 6.algorithm|having trouble learning breathstroke|
 |Day19|20211009S|1.~free 2.codingapple 3. info/git| Don't forget to write a diary!|
