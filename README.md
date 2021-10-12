@@ -26,3 +26,8 @@ What I did & Reflection.. since 20210921
 |Day17|20211007T|1. codingapple 2.algorithm|  |
 |Day18|20211008F|1.dcode 2. dreview 3.swimming 4.german 5.codingapple 6.algorithm|having trouble learning breathstroke|
 |Day19|20211009S|1.~free 2.codingapple 3. info/git| Don't forget to write a diary!|
+|Day19|20211009S|1.~free 2.codingapple 3. info/git| Don't forget to write a diary!|
+|Day19|20211009S|1.~free 2.codingapple 3. info/git|sass! annoying 🍊|
+|Day19|20211012W|1.~free 2.codingapple 3. info/git| The last day of english lesson! I'm proud of myself! |
+
+
