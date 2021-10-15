@@ -29,7 +29,9 @@ What I did & Reflection.. since 20210921
 |Day20|20211009S|1.~free 2.codingapple 3. info/git| Don't forget to write a diary!|
 |Day21|20211009S|1.~free 2.codingapple 3. info/git|sass! annoying 🍊|
 |Day22|20211012W|1.~free 2.codingapple 3. info/git| The last day of english lesson! I'm proud of myself! |
-|Day23|20211013W|1. dcode 2. algorithm 3.react 4. swimming 5. german| be careful of looking for the location of the code in sass|
+|Day23|20211013T|1. dcode 2. algorithm 3.react 4. swimming 5. german| be careful of looking for the location of the code in sass|
+|Day23|20211014W|1. dcode 2. algorithm 3.react 4. dreview 5. german| 호흡법 배우면서 배영 자세를 얼추 익혀간닿ㅎ|
+|Day23|20211015T|1. dcode 2. dreivew 3.reading 4. swimming 5. german| 헷갈리는 Position & Z-INDEX , ::before 개념 익히기|
 
 
 
