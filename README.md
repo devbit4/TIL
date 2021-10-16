@@ -27,7 +27,7 @@ What I did & Reflection.. since 20210921
 |Day18|20211008F|1.dcode 2. dreview 3.swimming 4.german 5.codingapple 6.algorithm|having trouble learning breathstroke|
 |Day19|20211009S|1.~free 2.codingapple 3. info/git| Don't forget to write a diary!|
 |Day20|20211010S|1. react 2. Seoul 3. github정리 | 광장시장 / 미술관 가기 전에는 꼭 예약할 것!|
-|Day21|20211011M|1.~free 2.codingapple 3. info/git|sass! annoying 🍊|
+|Day21|20211011M|1. react 2. react2 3. review 4. Algorithm 5. German |sass! annoying 🍊|
 |Day22|20211012T|1.~free 2.codingapple 3. info/git| The last day of english lesson! I'm proud of myself! |
 |Day23|20211013W|1. dcode 2. algorithm 3.react 4. swimming 5. german| be careful of looking for the location of the code in sass|
 |Day23|20211014T|1. dcode 2. algorithm 3.react 4. dreview 5. german| 호흡법 배우면서 배영 자세를 얼추 익혀간닿ㅎ|
