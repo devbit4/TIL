@@ -26,12 +26,13 @@ What I did & Reflection.. since 20210921
 |Day17|20211007T|1. codingapple 2.algorithm|  |
 |Day18|20211008F|1.dcode 2. dreview 3.swimming 4.german 5.codingapple 6.algorithm|having trouble learning breathstroke|
 |Day19|20211009S|1.~free 2.codingapple 3. info/git| Don't forget to write a diary!|
-|Day20|20211009S|1.~free 2.codingapple 3. info/git| Don't forget to write a diary!|
-|Day21|20211009S|1.~free 2.codingapple 3. info/git|sass! annoying 🍊|
-|Day22|20211012W|1.~free 2.codingapple 3. info/git| The last day of english lesson! I'm proud of myself! |
-|Day23|20211013T|1. dcode 2. algorithm 3.react 4. swimming 5. german| be careful of looking for the location of the code in sass|
-|Day23|20211014W|1. dcode 2. algorithm 3.react 4. dreview 5. german| 호흡법 배우면서 배영 자세를 얼추 익혀간닿ㅎ|
-|Day23|20211015T|1. dcode 2. dreivew 3.reading 4. swimming 5. german| 헷갈리는 Position & Z-INDEX , ::before 개념 익히기|
+|Day20|20211010S|1. react 2. Seoul 3. github정리 | 광장시장 / 미술관 가기 전에는 꼭 예약할 것!|
+|Day21|20211011M|1.~free 2.codingapple 3. info/git|sass! annoying 🍊|
+|Day22|20211012T|1.~free 2.codingapple 3. info/git| The last day of english lesson! I'm proud of myself! |
+|Day23|20211013W|1. dcode 2. algorithm 3.react 4. swimming 5. german| be careful of looking for the location of the code in sass|
+|Day23|20211014T|1. dcode 2. algorithm 3.react 4. dreview 5. german| 호흡법 배우면서 배영 자세를 얼추 익혀간닿ㅎ|
+|Day23|20211015F|1. dcode 2. dreivew 3.reading 4. swimming 5. german| 헷갈리는 Position & Z-INDEX , ::before 개념 익히기|
+|Day24|20211016S|1. react 2. reading 3. github정리 4. Algorithm| react 개념다지기 한 날, props와 import 개념에 대해 자세하게 알게 된 날|
 
 
 
