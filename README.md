@@ -30,9 +30,10 @@ What I did & Reflection.. since 20210921
 |Day21|20211011M|1. react 2. react2 3. review 4. Algorithm 5. German |sass! annoying 🍊|
 |Day22|20211012T|1.~free 2.codingapple 3. info/git| The last day of english lesson! I'm proud of myself! |
 |Day23|20211013W|1. dcode 2. algorithm 3.react 4. swimming 5. german| be careful of looking for the location of the code in sass|
-|Day23|20211014T|1. dcode 2. algorithm 3.react 4. dreview 5. german| 호흡법 배우면서 배영 자세를 얼추 익혀간닿ㅎ|
-|Day23|20211015F|1. dcode 2. dreivew 3.reading 4. swimming 5. german| 헷갈리는 Position & Z-INDEX , ::before 개념 익히기|
-|Day24|20211016S|1. react 2. reading 3. github정리 4. Algorithm| react 개념다지기 한 날, props와 import 개념에 대해 자세하게 알게 된 날|
+|Day24|20211014T|1. dcode 2. algorithm 3.react 4. dreview 5. german| 호흡법 배우면서 배영 자세를 얼추 익혀간닿ㅎ|
+|Day25|20211015F|1. dcode 2. dreivew 3.reading 4. swimming 5. german| 헷갈리는 Position & Z-INDEX , ::before 개념 익히기|
+|Day26|20211016S|1. react 2. freedom 3. Algorithm 4. git velog 정리 5. 인터뷰대비| Algorithm 문제풀이 다시 돌입|
+|Day27|20211017S|1. react 2. react 3. Algorithm 4. project| node.js 입력하는 방법 처음에 너무 헤맸지만 나름 잘 터득한 듯?|
 
 
 
