@@ -35,6 +35,9 @@ What I did & Reflection.. since 20210921
 |Day26|20211016S|1. react 2. freedom 3. Algorithm 4. git velog 정리 5. 인터뷰대비| Algorithm 문제풀이 다시 돌입|
 |Day27|20211017S|1. react 2. react 3. Algorithm 4. project| node.js 입력하는 방법 처음에 너무 헤맸지만 나름 잘 터득한 듯?|
 |Day28|20211018M|1. react 2. react 3. Algorithm 4. German 5.Swimming 6. Dreview| It was really fun to solve problems:) 알고리즘 재밌다ㅎㅎ|
+|Day29|20211019T|1. dcode 2. react 3. Algorithm 4. German 5.English call 6. Dreview| deploy하다가..헤맸지만 git remote add origin theCopiedUrl 해결방안 찾음..|
+
+
 
 
 
