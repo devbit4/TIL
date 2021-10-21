@@ -36,6 +36,9 @@ What I did & Reflection.. since 20210921
 |Day27|20211017S|1. react 2. react 3. Algorithm 4. project| node.js 입력하는 방법 처음에 너무 헤맸지만 나름 잘 터득한 듯?|
 |Day28|20211018M|1. react 2. react 3. Algorithm 4. German 5.Swimming 6. Dreview| It was really fun to solve problems:) 알고리즘 재밌다ㅎㅎ|
 |Day29|20211019T|1. dcode 2. react 3. Algorithm 4. German 5.English call 6. Dreview| deploy하다가..헤맸지만 git remote add origin theCopiedUrl 해결방안 찾음..|
+|Day30|20211020W|1. dcode 2. dreview 3. Algorithm 4. German 5. x swimming 6. 프론트엔드 강연| String() 활용하기 주의/ transition 복습한 날 ㅎㅎ 뜻깊었던 원티드 강연|
+|Day31|20211021T|1. dcode 2. react 3. Algorithm 4. German 5.English call 6. Dreview| && and , || or 임 잘 활용할 것~ 많이 사고하고 문제 풀 것|
+
 
 
 
