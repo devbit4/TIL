@@ -40,7 +40,7 @@ What I did & Reflection.. since 20210921
 |Day31|20211021T|1. dcode 2. react 3. Algorithm 4. German 5.English call 6. Dreview| and , or 잘 활용할 것~ 많이 사고하고 문제 풀 것|
 |Day32|20211022F|1. dcode 2. 청소 3. Algorithm 4. German 5.English call 6. Dreview| 입력안되는 문제 붙잡고 있다가..ㅠㅠ 하지만 재밌게 영어공부하고 기분나아짐|
 |Day33|20211023S|1. 한강라이딩 2. AJAX / PROMISES 3. Algorithm | 한강라이딩 후 지쳐쓰러짐..그래도 Algorithm 이랑 ajaxr공부 끝내고 잠|
-|Day34|20211024S|1. Async 2. Async2 3. algorithm 4. typescript| node.js 입력 😠 |
+|Day34|20211024S|1. Async 2. Async2 3. algorithm 4. typescript| node.js 입력 😠/ destructuring이랑 spread recap:)|
 
 
 
