@@ -44,6 +44,9 @@ What I did & Reflection.. since 20210921
 |Day35|20211025M|1. project 2. algorithm 3. german 4. swimming | 9시간 코딩 공부하다 풀린 스트레스 수영으로 푼 날|
 |Day36|20211026T|1. dcode 2. dreview 3. englishcall 4. german 5. codingapple 6. algorithm | if 에서 break쓰면 반복문 탈출가능 |
 |Day37|20211027W|1. dcode 2. dreview 3. swimming 4. german 5. codingapple 6. algorithm | scroll page resize baseline 생각안하고 만들다 헤맴|
+|Day38|20211028T|1. dcode 2. dreview 3. englishcall 4. german 5. codingapple 6. algorithm | 배열 최대최소 풀다가 조건 하나 빠뜨림.. 꼼꼼히 보자|
+
+
 
 
 
