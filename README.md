@@ -45,6 +45,10 @@ What I did & Reflection.. since 20210921
 |Day36|20211026T|1. dcode 2. dreview 3. englishcall 4. german 5. codingapple 6. algorithm | if 에서 break쓰면 반복문 탈출가능 |
 |Day37|20211027W|1. dcode 2. dreview 3. swimming 4. german 5. codingapple 6. algorithm | scroll page resize baseline 생각안하고 만들다 헤맴|
 |Day38|20211028T|1. dcode 2. dreview 3. englishcall 4. german 5. codingapple 6. algorithm | 배열 최대최소 풀다가 조건 하나 빠뜨림.. 꼼꼼히 보자|
+|Day39|20211029F|1. dcode 2. dreview 3. englishcall 4. german 5. project 6. algorithm | |
+|Day40|20211030S|1 한강 2. nodejs 3. algorithm | 오랜만에 한강에서 힐링|
+|Day41|20211031S|1. typescript 2. nodejs 3.  4. nodejs 5. codingapple 6. algorithm | 아슬아슬하게 오늘 계획 모두 완료|
+
 
 
 
