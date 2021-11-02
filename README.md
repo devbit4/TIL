@@ -49,6 +49,8 @@ What I did & Reflection.. since 20210921
 |Day40|20211030S|1 한강 2. nodejs 3. algorithm | 오랜만에 한강에서 힐링|
 |Day41|20211031S|1. typescript 2. nodejs 3.  4. nodejs 5. codingapple 6. algorithm | 아슬아슬하게 오늘 계획 모두 완료|
 |Day42|20211101M|1. nodejs 2. nodejs2 3. algorithm 4. swimming 5. german 6. review | 하루종일 코드만 보니 🤮|
+|Day43|20211102T|1. DCODE 2. review 3. algorithm 4. englishcall 5. german 6. server | 데이터베이스-데이터 손상을 막고 반복을 피하기 위해??|
+
 
 
 
