@@ -51,7 +51,7 @@ What I did & Reflection.. since 20210921
 |Day42|20211101M|1. nodejs 2. nodejs2 3. algorithm 4. swimming 5. german 6. review | 하루종일 코드만 보니 🤮|
 |Day43|20211102T|1. DCODE 2. review 3. algorithm 4. englishcall 5. german 6. server | 데이터베이스-데이터 손상을 막고 반복을 피하기 위해??|
 |Day44|20211103W|1. DCODE 2. review 3. algorithm 4. swimming 5. german | 너무 피곤한 하루였다ㅠㅠ함수 안의 함수 콜백/ 동기적비동기적처리랑 AJAX 복습한 날|
-
+|Day45|20211104W|1. DCODE 2. review 3. algorithm 4. english 5. german 6.zerotomastery | indexOf랑 findIndex차이알았고 filter배열/ Math.max(...result)배열일때|
 
 
 
