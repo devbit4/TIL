@@ -54,6 +54,8 @@ What I did & Reflection.. since 20210921
 |Day45|20211104T|1. DCODE 2. review 3. algorithm 4. english 5. german 6.zerotomastery | indexOf랑 findIndex차이알았고 filter배열/ Math.max(...result)배열일때|
 |Day46|20211105F|1. DCODE 2. review 3. algorithm 4. english 5. german 6.swimming | |
 |Day47|20211106S|1. free time 2. algorithm 3. english 4. 정리 5. udemy | 공원/에그타르트/|
+|Day48|20211107S|1. job searching 2. algorithm 3. udemy 4. plan for next week |해욏취업에 대해 알아보았던날..keep up the good work! |
+
 
 
 
