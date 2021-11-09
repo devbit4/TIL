@@ -56,7 +56,7 @@ What I did & Reflection.. since 20210921
 |Day47|20211106S|1. free time 2. algorithm 3. english 4. 정리 5. udemy | 공원/에그타르트/|
 |Day48|20211107S|1. job searching 2. algorithm 3. udemy 4. plan for next week |해외취업에 대해 알아보았던날..keep up the good work! |
 |Day49|20211108M|1. backend 2. database 3. algorithm 4. german 5. swimming |밀린 부분 해치우기 hang in there! |
-
+|Day50|20211109T|1. DCODE 2. REVIEW 3. algorithm 4. german 5. english 6. ||
 
 
 
