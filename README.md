@@ -60,6 +60,7 @@ What I did & Reflection.. since 20210921
 |Day51|20211110W|1. DCODE 2. REVIEW 3. algorithm 4. german 5. swimming |자바스크립트와 씨름한 날/ if 문 안의 local 변수랑 closest e.target과 e.currentTarget, dom addEventListener 달기 등등|
 |Day52|20211111T|1. DCODE 2. REVIEW 3. algorithm 4. german 5. english 6.database |최댓값 구할 때 Number.MIN_SAFE_INTEGER/ 최솟값 구할 때 Number.MAX_SAFE_INTEGER을 활용합시다|
 |Day53|20211112W|1. DCODE 2. REVIEW 3. algorithm 4. german 5. swimming  | 쪼금 나태해지는 것 같은데ㅇㅅㅇ 주말 잘보내고 다시 힘내봅시다|
+|Day54|20211113T|1. English 2. database 3. algorithm 4.interview 준비 5.github  | git force push 잘못쓰다 readme commit 날라감하하하하하 ㅇㅅㅇ 멘붕 그래도 스택오버플로우에서 해결책 찾고 값진 교훈을 얻었다. 꼭 페치를 하자!|
 
 
 
