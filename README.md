@@ -65,7 +65,9 @@ What I did & Reflection.. since 20210921
 |Day56|20211115M|1.udemy2. algorithm 3. dreview 4.swimming 5.ielts | |
 |Day57|20211116T|1. deployment 2. dreview 3. englishcall 4.german 5. algorithm 6. dcode  | 매번 헤매던(?)미디어쿼리 float 부분 정리 복습해서 뿌듯  |
 |Day58|20211117W|1. dcode 2. dcodereview 3. swimming 4.ielts 5. algorithm   |피곤한 수요일.. 문자.charCodeAt(0) => 숫자 // String.fromCharCode(숫자) => 문자 |
-
+|Day59|20211118T|1. dcode 2. dreveiw 3. enlgishcall 4. algorithm 5. ielts    | |
+|Day60|20211119F|1. dcode 2. dreveiw 3. englishcall 4. swimming 5. counseling | |
+|Day61|20211120S|1. react 2. react2 3. interview list 4. tech blog | |
 
 
 
