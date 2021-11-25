@@ -71,7 +71,7 @@ What I did & Reflection.. since 20210921
 |Day62|20211122M|1. HTML 2. English 3. swimming | 박스 만들어서 레이아웃 잡기/ 포지션 복습 sticky랑 |
 |Day63|20211123T|1. DCODE 2. English 3. porfolio 4. algorithm | 레이아웃 잡기 반복반복 |
 |Day64|20211124W|1. DCODE 2. swimming 3. porfolio 4. algorithm 5. review 6.english | 잘하고 있드아아 |
-|Day65|20211123T|1. DCODE 2. English 3. porfolio 4. algorithm | prone to~ |
+|Day65|20211123T|1. DCODE 2. English 3. porfolio 4. algorithm | prone to~ / Set() 유일한 값 저장 가능 add() 셋에 넣을 때 Array.from()|
 
 
 
