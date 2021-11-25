@@ -70,6 +70,9 @@ What I did & Reflection.. since 20210921
 |Day61|20211120S|1. react 2. react2 3. interview list 4. tech blog | 코세라 edx 등 공부할 수 있는 프로그램들을 찾게 되어 너무 좋았다/ hook이 어떻게 쓰이게 됐는지도 알게 됨|
 |Day62|20211122M|1. HTML 2. English 3. swimming | 박스 만들어서 레이아웃 잡기/ 포지션 복습 sticky랑 |
 |Day63|20211123T|1. DCODE 2. English 3. porfolio 4. algorithm | 레이아웃 잡기 반복반복 |
+|Day64|20211124W|1. DCODE 2. swimming 3. porfolio 4. algorithm 5. review 6.english | 잘하고 있드아아 |
+|Day65|20211123T|1. DCODE 2. English 3. porfolio 4. algorithm | prone to~ |
+
 
 
 
