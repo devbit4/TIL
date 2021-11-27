@@ -72,6 +72,10 @@ What I did & Reflection.. since 20210921
 |Day63|20211123T|1. DCODE 2. English 3. porfolio 4. algorithm | 레이아웃 잡기 반복반복 |
 |Day64|20211124W|1. DCODE 2. swimming 3. porfolio 4. algorithm 5. review 6.english | 잘하고 있드아아 |
 |Day65|20211123T|1. DCODE 2. English 3. porfolio 4. algorithm | prone to~ / Set() 유일한 값 저장 가능 add() 셋에 넣을 때 Array.from()|
+|Day66|20211124W|1. DCODE 2. lunch 3. dcodelab 4. 포트폴리오 5. swimming 6. algorithm 7. english  | |
+|Day67|20211125T|1. dcode 2. lunch 3. englishcall 4. portfolio 5. algorithm | |
+|Day68|20211126F|1. dcode 2. lunch 3. dcodelab 4. englishcall 5. swimming 6. portfolio 7. english  | |
+|Day69|20211127S|1. interview preparation 2. portfolio 3. algorithm  | |
 
 
 
