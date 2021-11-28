@@ -76,7 +76,7 @@ What I did & Reflection.. since 20210921
 |Day67|20211125T|1. dcode 2. lunch 3. englishcall 4. portfolio 5. algorithm | |
 |Day68|20211126F|1. dcode 2. lunch 3. dcodelab 4. englishcall 5. swimming 6. portfolio 7. english  | |
 |Day69|20211127S|1. interview preparation 2. portfolio 3. algorithm  | |
-
+|Day70|20211127S|1. react 2. react2 3. 알고리즘 4. interview 준비 | react template을 뜯어보았다. 역시 반복이 최고당 |
 
 
 
