@@ -80,9 +80,9 @@ What I did & Reflection.. since 20210921
 |Day71|20211129M|1. react 2. dcode 3. swimming 4. algorithm 5. review |  |
 |Day72|20211130T|1. react 2. dcode 3. english 4. review 5. algorithm | 포트폴리오 디자인 작업 with adobe xd |
 |Day73|20211201W|1. dcode 2.react 3. swimming 4.algorithm 5. review |  |
-|Day74|20211202T|1.  |  |
-|Day75|20211203F|1.  | |
-|Day76|20211204S|1. |  |
+|Day74|20211202T|1. website plan |  |
+|Day75|20211203F|1. website plan | |
+|Day76|20211204S|1. website plan |  |
 |Day77|20211205S|1. react 2. english 3. ielts 4.algorithm 5.review | 레이아웃.아이소톱 필터와 8시간동안 씨름한날 😢  |
 |Day78|20211206M|1. dcode 2. git 3. swimming 4. algorithm 5. 웨비나 | 깃 브랜치 깃 머지 깃 로그/ 프로젝트 디자인 설정 |
 |Day79|20211207T|1. website |  |
