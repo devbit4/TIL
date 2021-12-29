@@ -99,6 +99,13 @@ What I did & Reflection.. since 20210921
 |Day90|20211218S|1. 휴가 | In Busan |
 |Day91|20211219S|1. website |  |
 |Day92|20211220M|1. website 2. feedback 3. swimming 4. react | 구글 웹폰트 변경하기~ 폰트고르기 어려움ㅇㅅㅇ /접영 마스터?  |
-
-
+|Day93|20211221T|1. react 2. website 3. swimming 4. algorithm |   |
+|Day94|20211222W|1. js 2. website 3. english 4. algorithm||
+|Day95|20211223T|1. react 2. website 3. swimming 4. algorithm |  |
+|Day96|20211224F|1. js 2. website 3. english 4. algorithm | |
+|Day97|20211225S|1. christmas holidays|  |
+|Day98|20211226S|1. christmas holidays 2. algorithm  3. website|  |
+|Day99|20211227M|1. react 2. swimming 3. algorithm 4.website |  |
+|Day100|2021128T|1. js 2. english 3. algorithm 4. website  |   |
+|Day101|2021129W|1. 증명사진 2. react 3. algorithm 4. website| 증명사진 찍은 날/ react state 활용 및 gallery 불러오기 review/ js 능력 키우기  |
 
