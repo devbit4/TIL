@@ -106,6 +106,6 @@ What I did & Reflection.. since 20210921
 |Day97|20211225S|1. christmas holidays|  |
 |Day98|20211226S|1. christmas holidays 2. algorithm  3. website|  |
 |Day99|20211227M|1. react 2. swimming 3. algorithm 4.website |  |
-|Day100|2021128T|1. js 2. english 3. algorithm 4. website  |   |
-|Day101|2021129W|1. 증명사진 2. react 3. algorithm 4. website| 증명사진 찍은 날/ react state 활용 및 gallery 불러오기 review/ js 능력 키우기  |
+|Day100|20211228T|1. js 2. english 3. algorithm 4. website  |   |
+|Day101|20211229W|1. 증명사진 2. react 3. algorithm 4. website| 증명사진 찍은 날/ react state 활용 및 gallery 불러오기 review/ js 능력 키우기  |
 
