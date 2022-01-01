@@ -109,3 +109,4 @@ What I did & Reflection.. since 20210921
 |Day100|20211228T|1. js 2. english 3. algorithm 4. website  |   |
 |Day101|20211229W|1. 증명사진 2. react 3. algorithm 4. website| 증명사진 찍은 날/ react state 활용 및 gallery 불러오기 review/ js 능력 키우기  |
 |Day102|20211230T|1. 이력서 정리 2. react 3. algorithm | 문득 이력서를 정리하다가 그동안 활동을 돌이켜보니 감회가 새롭다. 최근에 프로젝트 포트폴리오 만들기에 사실 많이 지쳤는데 힘든 만큼 전보다 성장하고 있음을 깨닫는 하루다. 모든 일에 감사하고 또 힘내봅시다..! |
+|Day103|20211231W|1. react | react flickr api 불러오기를 axios를 통해 적용함 |
