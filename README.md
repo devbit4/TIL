@@ -104,17 +104,17 @@ What I did & Reflection.. since 20210921
 |Day95|20211223T|1. react 2. website 3. swimming 4. algorithm |  |
 |Day96|20211224F|1. js 2. website 3. english 4. algorithm | |
 |Day97|20211225S|1. christmas holidays|  |
-|Day98|20211226S|1. christmas holidays 2. algorithm  3. website|  |
-|Day99|20211227M|1. react 2. swimming 3. algorithm 4.website |  |
-|Day100|20211228T|1. js 2. english 3. algorithm 4. website  |   |
+|Day98|20211226S|1. christmas holidays 2. algorithm  3. website| portfolio project2 |
+|Day99|20211227M|1. react 2. swimming 3. algorithm 4.website | portfolio project2 |
+|Day100|20211228T|1. js 2. english 3. algorithm 4. website  |  portfolio project2 |
 |Day101|20211229W|1. 증명사진 2. react 3. algorithm 4. website| 증명사진 찍은 날/ react state 활용 및 gallery 불러오기 review/ js 능력 키우기  |
 |Day102|20211230T|1. 이력서 정리 2. react 3. algorithm | 문득 이력서를 정리하다가 그동안 활동을 돌이켜보니 감회가 새롭다. 최근에 프로젝트 포트폴리오 만들기에 사실 많이 지쳤는데 힘든 만큼 전보다 성장하고 있음을 깨닫는 하루다. 모든 일에 감사하고 또 힘내봅시다..! |
-|Day103|20211231F|1. react |  |
-|Day104|20220101S|1. react 프로젝트 | |
-|Day105|20220102S|1. react 프로젝트|  |
-|Day106|20220103M|1. react 프로젝트 2.dcode| |
-|Day107|20220104T|1. react 프로젝트 2.dcode| |
-|Day108|20220105W|1. react 프로젝트 2.dcode| |
-|Day109|20220106T|1. react 프로젝트 2.dcode| |
-|Day110|20220106F|1. react 프로젝트 2.dcode| |
+|Day103|20211231F|1. react | portfolio project2 |
+|Day104|20220101S|1. react 프로젝트 | portfolio project2|
+|Day105|20220102S|1. react 프로젝트|  portfolio project2|
+|Day106|20220103M|1. react 프로젝트 2.dcode| portfolio project2 |
+|Day107|20220104T|1. react 프로젝트 2.dcode| portfolio project2|
+|Day108|20220105W|1. react 프로젝트 2.dcode|portfolio project2 |
+|Day109|20220106T|1. react 프로젝트 2.dcode|portfolio project2 |
+|Day110|20220106F|1. react 프로젝트 2.dcode| portfolio project2|
 |Day111|20220107S|1. react 프로젝트 2.dcode| 일주일동안 일기 쓸 시간도 없이 프로젝트를 만들었다 🤤zzz 오늘의 버그 useRef current와 import{} |
