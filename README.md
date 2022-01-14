@@ -118,3 +118,5 @@ What I did & Reflection.. since 20210921
 |Day109|20220106T|1. react 프로젝트 2.dcode|portfolio project2 |
 |Day110|20220106F|1. react 프로젝트 2.dcode| portfolio project2|
 |Day111|20220107S|1. react 프로젝트 2.dcode| 일주일동안 일기 쓸 시간도 없이 프로젝트를 만들었다 🤤zzz 오늘의 버그 useRef current와 import{} |
+|Day118|20220114F|1. react 프로젝트 2.dcode 3.ENGLISH | 프로젝트 진행 중.. 해쉬라우터? 브라우저라우터? |
+
