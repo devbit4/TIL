@@ -41,7 +41,7 @@ What I did & Reflection.. since 20210921
 |Day32|20211022F|1. dcode 2. 청소 3. Algorithm 4. German 5.English call 6. Dreview| 입력안되는 문제 붙잡고 있다가..ㅠㅠ 하지만 재밌게 영어공부하고 기분나아짐|
 |Day33|20211023S|1. 한강라이딩 2. AJAX / PROMISES 3. Algorithm | 한강라이딩 후 지쳐쓰러짐..그래도 Algorithm 이랑 ajaxr공부 끝내고 잠|
 |Day34|20211024S|1. Async 2. Async2 3. algorithm 4. typescript| node.js 입력 😠/ destructuring이랑 spread recap:)|
-|Day35|20211025M|1. project 2. algorithm 3. german 4. swimming | 9시간 코딩 공부하다 풀린 스트레스 수영으로 푼 날|
+|Day35|20211025M|1. project 2. algorithm 3. german 4. swimming | 9시간 코딩 공부하다 생긴 스트레스 수영으로 푼 날|
 |Day36|20211026T|1. dcode 2. dreview 3. englishcall 4. german 5. codingapple 6. algorithm | if 에서 break쓰면 반복문 탈출가능 |
 |Day37|20211027W|1. dcode 2. dreview 3. swimming 4. german 5. codingapple 6. algorithm | scroll page resize baseline 생각안하고 만들다 헤맴|
 |Day38|20211028T|1. dcode 2. dreview 3. englishcall 4. german 5. codingapple 6. algorithm | 배열 최대최소 풀다가 조건 하나 빠뜨림.. 꼼꼼히 보자|
