@@ -120,3 +120,4 @@ What I did & Reflection.. since 20210921
 |Day111|20220107S|1. react 프로젝트 2.dcode| 일주일동안 일기 쓸 시간도 없이 프로젝트를 만들었다 🤤zzz 오늘의 버그 useRef current와 import{} |
 |Day118|20220114F|1. react 프로젝트 2.dcode 3.ENGLISH | 프로젝트 진행 중.. 해쉬라우터? 브라우저라우터? |
 |Day119|20220123S|1. portfolio 재정리 2. readme 파일 정리 3. canada| 10일동안 거의 하루 3-4시간 잔듯하다.. 버그 정리..프로젝트 준비..이력서 준비..|
+|Day120|20220123S|1. 이력서 수정 2. english 3. 깃허브 정리| 이력서 수정|
